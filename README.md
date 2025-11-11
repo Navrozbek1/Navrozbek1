@@ -37,10 +37,10 @@
 ## 🌐 Contact Me
 
 <div align="center">
-  <a href="https://t.me/allamov_009">
+  <a href="https://t.me/NavrozbekStudent">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:github.navrozbek.352@gmail.com">
+  <a href="mailto:navrozbekstudent@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
