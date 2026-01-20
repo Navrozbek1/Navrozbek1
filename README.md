@@ -5,13 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Navro'zbek!;IT+Student+%26+Study;Student+in+Programming+and+IT" alt="Typing SVG" />
 </div>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Men haqimda
 
-💻 **Profession:** Aspiring IT student and future developer  
-🎯 **Goal:** To deeply learn technology and build useful projects  
-🎓 **Fields I'm Learning:** Python, Web Development, Cybersecurity  
-📚 **Experience:** Improving my skills every day through hands-on practice
-
+💻 **Kasbim:** Bo‘lajak IT mutaxassisi va dasturchi  
+🎯 **Maqsadim:** Texnologiyalarni chuqur o‘rganish va foydali loyihalar yaratish  
+🎓 **O‘rganayotgan yo‘nalishlarim:** Python, Web dasturlash, Kiberxavfsizlik  
+📚 **Tajriba:** Har kuni amaliy mashg‘ulotlar orqali bilim va ko‘nikmalarimni rivojlantirib boraman  
 ---
 
 ## 🚀 Technologies & Skills
@@ -39,7 +38,7 @@
 ## 🌐 Contact Me
 
 <div align="center">
-  <a href="https://t.me/NavrozbekStudent">
+  <a href="https://t.me/allamov_009">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:navrozbekstudent@gmail.com">
@@ -50,5 +49,5 @@
 ---
 
 <div align="center">
-  <h3>⭐ If you find this profile useful, don't forget to leave a star!</h3>
+  <h3>⭐ Agar ushbu profil sizga foydali bo‘lsa, star bosishni unutmang!</h3>
 </div>
