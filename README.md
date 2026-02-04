@@ -19,7 +19,7 @@
 <tr>
 <td width="60%">
 
-python
+```python
 class Navrozbek:
     def __init__(self):
         self.ism = "Navro'zbek"
@@ -30,6 +30,7 @@ class Navrozbek:
     
     def kunlik_ish(self):
         return "Coding 💻 | Learning 📚 | Creating 🚀"
+```
 
 ### 💡 Mening Superqobiliyatlarim:
 - 🎯 **Maqsadim:** Texnologiyalarni chuqur o'rganish va foydali loyihalar yaratish
