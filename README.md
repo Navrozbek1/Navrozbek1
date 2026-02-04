@@ -1,4 +1,4 @@
-```markdown
+
 <!-- Profile Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navro'zbek%20🚀&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
@@ -18,7 +18,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```python
 class Navrozbek:
     def __init__(self):
         self.ism = "Navro'zbek"
@@ -29,7 +28,6 @@ class Navrozbek:
     
     def kunlik_ish(self):
         return "Coding 💻 | Learning 📚 | Creating 🚀"
-```
 
 ### 💡 Mening Superqobiliyatlarim:
 - 🎯 **Maqsadim:** Texnologiyalarni chuqur o'rganish va foydali loyihalar yaratish
@@ -137,5 +135,4 @@ class Navrozbek:
   
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
-```
 
