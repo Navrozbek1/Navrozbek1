@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Salom!+Men+Manashu+Ridmi!;IT+Talabasi+va+Dasturchi;Dasturlash+va+IT+yo'nalishida+o'qiyapman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Salom!+Men+Navro'zbek!;IT+Talabasi+va+Dasturchi;Dasturlash+va+IT+yo'nalishida+o'qiyapman" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 Men haqimda
