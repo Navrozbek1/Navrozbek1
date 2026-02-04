@@ -23,7 +23,7 @@ class Navrozbek:
         self.ism = "Navro'zbek"
         self.kasb = "Bo'lajak IT mutaxassisi"
         self.maqsad = "Dunyoni o'zgartiruvchi dasturlar yaratish"
-        self.o'rganayotgan = ["Python", "Web", "Kiberxavfsizlik"]
+        self.organayotgan = ["Python", "Web", "Kiberxavfsizlik"]
         self.hayot_tarzi = "Kod yozish + O'rganish = ♾️"
     
     def kunlik_ish(self):
