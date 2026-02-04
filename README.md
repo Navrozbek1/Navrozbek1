@@ -24,7 +24,7 @@ class Navrozbek:
     def __init__(self):
         self.ism = "Navro'zbek"
         self.kasb = "Bo'lajak IT mutaxassisi"
-        self.maqsad = "Dunyoni o'zgartiruvchi dasturlar yaratish"
+        self.maqsad = "Hamma uchun foydali ishlar qilish!"
         self.organayotgan = ["Python", "Web", "Kiberxavfsizlik"]
         self.hayot_tarzi = "Kod yozish + O'rganish = ♾️"
     
