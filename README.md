@@ -26,8 +26,8 @@ class Navrozbek:
         self.o'rganayotgan = ["Python", "Web", "Kiberxavfsizlik"]
         self.hayot_tarzi = "Kod yozish + O'rganish = ♾️"
     
-    def kunlik_ish(self):
-        return "Coding 💻 | Learning 📚 | Creating 🚀"
+   def kunlik_ish(self):
+        return "Coding 💻 | Learning 📚 | Creating 🚀" 
 
 ### 💡 Mening Superqobiliyatlarim:
 - 🎯 **Maqsadim:** Texnologiyalarni chuqur o'rganish va foydali loyihalar yaratish
