@@ -1,7 +1,6 @@
-
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navro'zbek%20🚀&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navro'zbek%20🚀&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 <div align="center">
@@ -18,6 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+```python
 class Navrozbek:
     def __init__(self):
         self.ism = "Navro'zbek"
@@ -25,8 +25,10 @@ class Navrozbek:
         self.maqsad = "Dunyoni o'zgartiruvchi dasturlar yaratish"
         self.o'rganayotgan = ["Python", "Web", "Kiberxavfsizlik"]
         self.hayot_tarzi = "Kod yozish + O'rganish = ♾️"
+    
     def kunlik_ish(self):
-        return "Coding 💻 | Learning 📚 | Creating 🚀" 
+        return "Coding 💻 | Learning 📚 | Creating 🚀"
+```
 
 ### 💡 Mening Superqobiliyatlarim:
 - 🎯 **Maqsadim:** Texnologiyalarni chuqur o'rganish va foydali loyihalar yaratish
@@ -76,12 +78,12 @@ class Navrozbek:
 ## 📊 GitHub Statistika
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=navrozbek&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=navrozbek&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B9D&currStreakLabel=00F5FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Navrozbek1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Navrozbek1&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B9D&currStreakLabel=00F5FF" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=navrozbek&custom_title=Navro'zbekning%20Faoliyat%20Grafigi&bg_color=0D1117&color=00F5FF&line=FF6B9D&point=FFFFFF&area_color=00F5FF&title_color=FFFFFF&area=true&hide_border=true" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Navrozbek1&custom_title=Navro'zbekning%20Faoliyat%20Grafigi&bg_color=0D1117&color=00F5FF&line=FF6B9D&point=FFFFFF&area_color=00F5FF&title_color=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
@@ -89,7 +91,7 @@ class Navrozbek:
 ## 🏆 Yutuqlar va Trofeylar
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navrozbek&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Navrozbek1&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </div>
 
 ---
@@ -128,10 +130,9 @@ class Navrozbek:
   
   ### ⭐ Agar sizga yoqsa, star bosing va kuzatib boring!
   
-  <img src="https://komarev.com/ghpvc/?username=navrozbek&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Navrozbek1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   
   **💎 Har bir kod qatori - san'at asari! 🎨**
   
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
-
