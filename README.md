@@ -1,7 +1,7 @@
 
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navro'zbek%20🚀&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navro'zbek%20🚀&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
@@ -25,8 +25,7 @@ class Navrozbek:
         self.maqsad = "Dunyoni o'zgartiruvchi dasturlar yaratish"
         self.o'rganayotgan = ["Python", "Web", "Kiberxavfsizlik"]
         self.hayot_tarzi = "Kod yozish + O'rganish = ♾️"
-    
-   def kunlik_ish(self):
+    def kunlik_ish(self):
         return "Coding 💻 | Learning 📚 | Creating 🚀" 
 
 ### 💡 Mening Superqobiliyatlarim:
