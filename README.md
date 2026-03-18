@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navro%27zbek%20Allamov&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=IT+Talabasi+%7C+Dasturchi+%7C+Kelajak+Yaratuvchi&descSize=17&descAlignY=60&descColor=00F5FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navro%27zbek%20Allamov&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=IT+Talabasi+%7C+Dasturchi+%7C+Yangi+Dasturchi&descSize=17&descAlignY=60&descColor=00F5FF" />
 </div>
 
 <div align="center">
