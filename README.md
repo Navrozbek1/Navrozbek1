@@ -1,95 +1,24 @@
-<!-- Profile Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navro'zbek%20🚀&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00f5ff,100:ff6b9d&height=220&section=header&text=Navro'zbek&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=\ud83d\ude80%20IT%20Talabasi%20\u2022%20Dasturchi%20\u2022%20Kelajak%20Yaratuvchi&descSize=18&descAlignY=60&descColor=00f5ff" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=\ud83d\udc8e+Salom!+Men+Navro'zbek+Allamov!;\ud83d\udd25+Python+%7C+Web+Dev+%7C+Kiberxavfsizlik;\u26a1+Har+bir+bug+\u2014+yangi+sabaq;\ud83c\udf1f+Kod+yozaman%2C+Orzu+quraman%2C+Yarataman!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=💎+Salom!+Men+Navro'zbek!;🔥+IT+Talabasi+va+Dasturchi;⚡+Dasturlash+va+IT+yo'nalishida+o'qiyapman;🌟+Kelajak+Texnologiyasini+Yarataman!" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="680"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+<br/>
 
 ---
 
-## 🔥 Men haqimda
+<br/>
 
-<table>
-<tr>
-<td width="60%">
-
-```python
-class Navrozbek:
-    def __init__(self):
-        self.ism = "Navro'zbek"
-        self.kasb = "Bo'lajak IT mutaxassisi"
-        self.maqsad = "Hamma uchun foydali ishlar qilish!"
-        self.organayotgan = ["Python", "Web", "Kiberxavfsizlik"]
-        self.hayot_tarzi = "Kod yozish + O'rganish = ♾️"
-    
-    def kunlik_ish(self):
-        return "Coding 💻 | Learning 📚 | Creating 🚀"
-```
-
-### 💡 Mening Superqobiliyatlarim:
-- 🎯 **Maqsadim:** Texnologiyalarni chuqur o'rganish va foydali loyihalar yaratish
-- 🚀 **Viziyam:** Har bir kod qatori - kelajakka qadam!
-- 💪 **Kuchim:** Har kuni yangi narsalarni o'rganish va amaliyotga tatbiq etish
-- 🔥 **Motivatsiyam:** Bug'lar meni to'xtata olmaydi, faqat kuchliroq qiladi!
-
-</td>
-<td width="40%">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Texnologiyalar Arsenal
-
-<div align="center">
-
-### 🎨 Frontend - Kreativ Dunyo
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend - Qudrat Markazi
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2C2C2C?style=for-the-badge&logo=telegram&logoColor=white)
-
-### 💻 IDE - Yaratish Laboratoriyasi
-<img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
-
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-
-### 🛡️ Operatsion Tizim
-<img src="https://skillicons.dev/icons?i=windows&theme=dark" />
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🔧 Dasturlash Qurollari
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistika
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Navrozbek1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Navrozbek1&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B9D&currStreakLabel=00F5FF" />
-</div>
+## \ud83e\uddec</div>
 
 <div align="center">
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Navrozbek1&custom_title=Navro'zbekning%20Faoliyat%20Grafigi&bg_color=0D1117&color=00F5FF&line=FF6B9D&point=FFFFFF&area_color=00F5FF&title_color=FFFFFF&area=true&hide_border=true" />
