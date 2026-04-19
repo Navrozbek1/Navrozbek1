@@ -22,7 +22,7 @@ class Navrozbek:
         self.ism      = "Navro'zbek Allamov"
         self.kasb     = "IT Talabasi"
         self.email    = "navrozbekallamovv@gmail.com"
-        self.tg       = "@allamov_009"
+        self.tg       = "@navrozbek_allamov"
         self.skills   = [
             "Python", "Aiogram",
             "HTML", "CSS",
