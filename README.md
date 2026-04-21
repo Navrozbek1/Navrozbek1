@@ -41,7 +41,7 @@ class Navrozbek:
 | Ism | Navro'zbek Allamov |
 | Kasb | IT Talabasi |
 | Joylashuv | O'zbekiston |
-| Telegram | [@allamov_009](https://t.me/allamov_009) |
+| Telegram | [@navrozbek_allamov](https://t.me/navrozbek_allamov) |
 | Email | navrozbekallamovv@gmail.com |
 | OS | Windows |
 
